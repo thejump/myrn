@@ -31,7 +31,11 @@ public class ReactTextView extends TextView implements ReactCompoundView {
 
   private static final ViewGroup.LayoutParams EMPTY_LAYOUT_PARAMS =
     new ViewGroup.LayoutParams(0, 0);
-
+asdf
+  
+  asd
+  fas
+  df
   private boolean mContainsImages;
   private int mDefaultGravityHorizontal;
   private int mDefaultGravityVertical;
